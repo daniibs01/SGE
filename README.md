@@ -70,7 +70,9 @@ g_Proyecto.py: Archivo generado por PyQt6 Designer para la interfaz de proyectos
   
 ## Uso
 1.- Ejecuta el .exe para iniciar la aplicación.
+
 2.- Inicia sesión con tus credenciales.
+
 3.- Navega por los diferentes módulos según tu rol y gestiona la información necesaria.
 
 Contacto
